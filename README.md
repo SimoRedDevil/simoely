@@ -7,7 +7,7 @@ For now i'm a Desktop App Developer and i do somethings in Web Development, in t
 
 ## Languages & Technologies
 
-![](https://raw.githubusercontent.com/SimoRedDevil/Icons/main/vs.png?token=GHSAT0AAAAAABRW5FIK5PA7SJFC4K5C6IUCYRAYU5Q)
-![](https://raw.githubusercontent.com/SimoRedDevil/Icons/main/html5.png?token=GHSAT0AAAAAABRW5FILEZY2462OC5UWIALAYRAYVFQ)
-![](https://raw.githubusercontent.com/SimoRedDevil/Icons/main/css3.png?token=GHSAT0AAAAAABRW5FIKBKG36OMLNMEO74DQYRAYVNA)
-![](https://raw.githubusercontent.com/SimoRedDevil/Icons/main/git.png?token=GHSAT0AAAAAABRW5FIKBBONFAUQ35JNNN4CYRAYYFA)
+![](https://d.top4top.io/p_22531c6rf1.png)
+![](https://e.top4top.io/p_22536e1xw2.png)
+![](https://f.top4top.io/p_2253xqi353.png)
+![](https://g.top4top.io/p_2253j47s44.png)

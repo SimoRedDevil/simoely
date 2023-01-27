@@ -13,4 +13,4 @@ For now i'm a Desktop App Developer and i do somethings in Web Development, in t
 ![](https://e.top4top.io/p_22536e1xw2.png)
 ![](https://f.top4top.io/p_2253xqi353.png)
 ![](https://g.top4top.io/p_2253j47s44.png)
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>

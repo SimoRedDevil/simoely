@@ -14,4 +14,4 @@ For now i'm a Desktop App Developer and i do somethings in Web Development, in t
 ![](https://f.top4top.io/p_2253xqi353.png)
 ![](https://g.top4top.io/p_2253j47s44.png)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimoRedDevil)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimoRedDevil&theme=tokyonight&border_radius=2)](https://git.io/streak-stats)

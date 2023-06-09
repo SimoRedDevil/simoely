@@ -1,7 +1,7 @@
 Hi there 🙋‍♂️
 
 💻 This is the place where I opensource stuff\
-🔭 I’m currently a student at 1337 Khouribga (42 Network).\
+🔭 I’m currently a student at 1337 Khouribga (42 Network).
 
 Interested in:\
 C/C++\

@@ -1,11 +1,5 @@
 Hi there 🙋‍♂️\
-🔭 I’m currently a student at 1337 Khouribga (42 Network)
-
-Interested in:\
-C/C++\
-C#\
-MSSQL\
-Malware Dev
+🔭 I’m currently a student at 1337 Khouribga (42 Network)\
 
 [![mel-yous's 42 stats](https://badge.mediaplus.ma/levi/mel-yous)](https://github.com/oakoudad/badge42)
 

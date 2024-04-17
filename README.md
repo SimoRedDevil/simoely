@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Youssfi</h1>
-<h3 align="center">1337 Student and passionate low-level programming</h3>
+<h3 align="center">1337 Student</h3>
 
 - 🌱 I’m currently learning **C++**
 
